@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="26ae5063-4682-4d3f-ba6a-86fcf54ad646" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/labelling_test_iids.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/labelling_test_tl.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scripts/PKDD_EXPERIMENTS/PKDD_PARAMETERS.py" beforeDir="false" afterPath="$PROJECT_DIR$/scripts/PKDD_EXPERIMENTS/PKDD_PARAMETERS.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DjangoConsoleOptions" custom-start-script="import sys; print('Python %s on %s' % (sys.version, sys.platform))&#10;import django; print('Django %s' % django.get_version())&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;if 'setup' in dir(django): django.setup()&#10;import django_manage_shell; django_manage_shell.run(PROJECT_ROOT)">
+    <option name="myCustomStartScript" value="import sys; print('Python %s on %s' % (sys.version, sys.platform))&#10;import django; print('Django %s' % django.get_version())&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;if 'setup' in dir(django): django.setup()&#10;import django_manage_shell; django_manage_shell.run(PROJECT_ROOT)" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
+  </component>
+  <component name="ProjectId" id="1dzDR37hyrBFyGRZIrQaBwHPXkO" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../../../../../ProgramData/Anaconda3/envs/Main_Project" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="project.propDebugger" />
+  </component>
+  <component name="RunManager">
+    <configuration name="POST_BOOTSTRAP" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/scripts/PKDD_EXPERIMENTS/POST_BOOTSTRAP.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.POST_BOOTSTRAP" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="26ae5063-4682-4d3f-ba6a-86fcf54ad646" name="Default Changelist" comment="" />
+      <created>1593419016451</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1593419016451</updated>
+      <workItem from="1593419017856" duration="3643000" />
+      <workItem from="1593423704407" duration="5744000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="-1506" y="234" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1593420017373">
+      <screen x="-1920" y="0" width="1920" height="1160" />
+    </state>
+    <state x="-1506" y="234" key="#com.intellij.execution.impl.EditConfigurationsDialog/-1920.0.1920.1160/0.0.1920.1160/1920.692.1536.824@-1920.0.1920.1160" timestamp="1593420017373" />
+    <state x="-1181" y="334" key="FileChooserDialogImpl" timestamp="1593419052038">
+      <screen x="-1920" y="0" width="1920" height="1160" />
+    </state>
+    <state x="-1181" y="334" key="FileChooserDialogImpl/-1920.0.1920.1160/0.0.1920.1160/1920.692.1536.824@-1920.0.1920.1160" timestamp="1593419052038" />
+    <state width="1921" height="1104" key="GridCell.Tab.0.bottom" timestamp="1593441897565">
+      <screen x="-1920" y="0" width="1920" height="1160" />
+    </state>
+    <state width="1921" height="1104" key="GridCell.Tab.0.bottom/-1920.0.1920.1160/0.0.1920.1160/1920.692.1536.824@-1920.0.1920.1160" timestamp="1593441897565" />
+    <state width="1921" height="1104" key="GridCell.Tab.0.center" timestamp="1593441897564">
+      <screen x="-1920" y="0" width="1920" height="1160" />
+    </state>
+    <state width="1921" height="1104" key="GridCell.Tab.0.center/-1920.0.1920.1160/0.0.1920.1160/1920.692.1536.824@-1920.0.1920.1160" timestamp="1593441897564" />
+    <state width="1921" height="1104" key="GridCell.Tab.0.left" timestamp="1593441897564">
+      <screen x="-1920" y="0" width="1920" height="1160" />
+    </state>
+    <state width="1921" height="1104" key="GridCell.Tab.0.left/-1920.0.1920.1160/0.0.1920.1160/1920.692.1536.824@-1920.0.1920.1160" timestamp="1593441897564" />
+    <state width="1921" height="1104" key="GridCell.Tab.0.right" timestamp="1593441897565">
+      <screen x="-1920" y="0" width="1920" height="1160" />
+    </state>
+    <state width="1921" height="1104" key="GridCell.Tab.0.right/-1920.0.1920.1160/0.0.1920.1160/1920.692.1536.824@-1920.0.1920.1160" timestamp="1593441897565" />
+    <state x="-1459" y="224" key="SettingsEditor" timestamp="1593419997448">
+      <screen x="-1920" y="0" width="1920" height="1160" />
+    </state>
+    <state x="-1459" y="224" key="SettingsEditor/-1920.0.1920.1160/0.0.1920.1160/1920.692.1536.824@-1920.0.1920.1160" timestamp="1593419997448" />
+    <state x="-1297" y="255" width="672" height="678" key="search.everywhere.popup" timestamp="1593422633456">
+      <screen x="-1920" y="0" width="1920" height="1160" />
+    </state>
+    <state x="-1297" y="255" width="672" height="678" key="search.everywhere.popup/-1920.0.1920.1160/0.0.1920.1160/1920.692.1536.824@-1920.0.1920.1160" timestamp="1593422633456" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/python$POST_BOOTSTRAP.coverage" NAME="POST_BOOTSTRAP Coverage Results" MODIFIED="1593423791557" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+</project>
