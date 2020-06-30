@@ -8,7 +8,7 @@ from scripts.PKDD_EXPERIMENTS.PKDD_PARAMETERS import REPETITION_COUNT
 
 
 def run():
-    for sampling in ['H', 'V']:
+    for sampling in 'H':
 
         for i in range(100):
             dsx = {'V': data_loader.dsx_apkdd, 'H': data_loader.dsx_pkdd}[sampling](i, 'A3')
