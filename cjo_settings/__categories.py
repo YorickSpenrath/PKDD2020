@@ -1,6 +1,3 @@
-# This file overrides settings. This file is supposed to be shared within the company (through git), but not for
-# the research community
-
 # -- categories set_1 --
 BABY_PRODUCTS = 'BABY PRODUCTS'
 PERSONAL_CARE = 'PERSONAL CARE'
