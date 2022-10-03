@@ -2,7 +2,7 @@ certifi==2020.6.20
 joblib==1.2.0
 llvmlite==0.31.0
 numba==0.48.0
-numpy==1.19.0
+numpy==1.22.0
 pandas==1.0.3
 pylatexenc==2.1
 python-dateutil==2.8.1
